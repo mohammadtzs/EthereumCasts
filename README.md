@@ -1,2 +1,2 @@
 # EthereumCasts
-Companion repo to an Ethereum/Solidity course on Udemy
+Companion repo to an Ethereum/Solidity course on Udemy.
